@@ -1,5 +1,5 @@
 Build Docker
-docker build -t best_selling_books_amazon .
+docker build -t project_name .
 
 Run Docker
-docker run -p 8501:8501 best_selling_books_amazon
+docker run -p 8501:8501 project_name
